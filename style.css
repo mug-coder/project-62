@@ -1,0 +1,82 @@
+#gridgallery {
+    background-color: red;
+}
+
+#slidegallery {
+    background-color: mediumslateblue;
+}
+
+#welcome {
+    background-color: aquamarine;
+}
+
+body {
+    text-align: center;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    top: 10px;
+    left: 800px;
+    font-weight: 200;
+    z-index: 100;
+    position: fixed;
+    background-color: white;
+    text-align: center;
+
+}
+
+.link {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 100px
+}
+
+.link:hover {
+    text-decoration: underline
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: dodgerblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+#gridgallery img {
+    height: 350px;
+    width: 400x;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    width: 400px;
+}
